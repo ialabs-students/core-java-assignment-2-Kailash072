@@ -7,8 +7,7 @@ public class SortArrayList {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ArrayList<Integer>
-        list = new ArrayList<Integer>();
+		ArrayList<Integer> list = new ArrayList<Integer>();
 
 		list.add(24);
 		list.add(543534);
